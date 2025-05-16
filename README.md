@@ -1,3 +1,3 @@
 # git_try_for_clone
 用来同远程PC的同步
-目前有main和dev两个分支
+目前有两个分支，且还加了一个伙伴，即huawei电脑
