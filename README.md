@@ -1,2 +1,3 @@
 # git_try_for_clone
 用来同远程PC的同步
+目前有main和dev两个分支
